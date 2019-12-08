@@ -17,6 +17,11 @@
 * 런닝의 출발 지점, 도착 지점을 통해 러너들이 경로를 찾는데 도움을 줌
 * 페이스메이커를 표시하여 낙오 방지와 페이스 조절
 
+## 4. 사용 기술 및 환경
+
+* FrontEnd - Android(Kotiln, Java), Android Studio
+* BackEnd - MSSQL, Spring Boot, Kotiln, Intellj
+
 ## 4. 실행화면
 
 
