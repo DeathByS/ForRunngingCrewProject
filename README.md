@@ -32,6 +32,21 @@
 * ~~Runner에서 Fackmaker의 실시간 위치 이동을 표시하는 부분
 * ~~FaceMaker, Runner 의 로그인
 
+## Mock Up
+
+![캡처](https://user-images.githubusercontent.com/46432795/70389259-4fd67b80-1a00-11ea-882e-f9d930d23fd1.JPG)
+
+## 개발
+
+Android 1 조길호 - ListView, Web App Server와 통신, 프로젝트 
+* https://github.com/DeathByS/ForRunngingCrewProject
+
+Android 2 황근호 - Google Map Api 관련 부분
+* https://github.com/ITRecipe/korcham_Android.Project
+
+DB And Spring Boot 양정우 
+* https://github.com/jeong-w-93/FRCProject
+
 ## 실행화면
 
 #### 시작화면 
@@ -59,7 +74,7 @@
 > * 시작 지점과 도착 지점을 설정하지 않으면 
     + 버튼이 활성화 되지 않음 
 
-### 페이스메이커 위치 창
+#### 페이스메이커 위치 창
 
 ![FaceMaker](https://user-images.githubusercontent.com/46432795/70389112-33394400-19fe-11ea-991c-f37cfb0ce6df.png)
 
@@ -68,5 +83,12 @@
 > * 위치는 마커로 표시
 > * 붉은색 마커 – 페이스 메이커
 
+## 아쉬운 점 및 개선 해야 될 부분
+
+* 로그인 미구현
+* 페이스메이커 / 러너 선택 미 구현
+* 일정 생성 부분의 날짜 선택 / 시간 선택을 텍스트박스가 아닌 캘린더, 리스트박스로 변경
+* 단위 테스트 / UI 테스트(Espresso) 등을 해보지 못함
+  
 
 
