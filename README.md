@@ -22,6 +22,15 @@
 * FrontEnd - Android(Kotiln, Java), Android Studio
 * BackEnd - MSSQL, Spring Boot, Kotiln, Intellj
 
-## 4. 실행화면
+## 5. 실행화면
+
+### 1. 시작화면 
+
+![Start1](https://user-images.githubusercontent.com/46432795/70387648-06c7fc80-19eb-11ea-95bc-d196b0171f4c.png)
+
+* listView로 구현
+* 각각의 일정 삭제 버튼  
++ 버튼 누를 시 일정 추가 화면으로 이동
+
 
 
